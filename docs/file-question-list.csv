@@ -1,0 +1,58 @@
+The total amount of conversation is 5
+Conversation 1:1012861349656891392,FoxitPDFEditor,"feedback:
+Dislike; 
+Not helpful",/
+,Question 1,"question: PAID BUT NOT ACTIVATED
+ question details: I paid to renew the pdf editor which had expired.  Now that I have paid, I cannot get into the program to use it.",
+
+Conversation 2:1012507547129708544,FoxitPDFEditor,"feedback:
+Dislike; 
+AI did not resolve the issue, and the representatives response time was terrible.  It actually disrupted business production and it took days for anyone to try to help.",/
+,Question 1,"question: Warning window asking me to buy product after trial
+ question details: Subscription:
+sub_1QnO3OGm4VaKnq8DdCgQoFQx
+
+Order:
+SB25A05619-E73C
+
+
+I tried the Esign trial, and now that it expired, it won't let me use my regular editor that I have a paid subscription for.  Please help!
+
+
+Thank you!
+Charlene",
+
+Conversation 3:1012492610771898368,FoxitPDFReader,"feedback:
+Dislike; 
+I am sorry, but the AI solver assistant got it completely backwards. Its advice was on how to turn on the feature, I am trying to turn off. However, meanwhile, my desktop cleaned and got rid of the thumbnails. Thumbnails remain in some folders, but that seems to be possible to fix as well. In case it breaks, I will resubmit the issue again. Thank you.",/
+,Question 1,"question: Thumbnail icons reappeared after Foxit Reader update
+ question details: Hello,
+Today, I have confirmed Foxit Reader offer to update itself. It worked, but now I can see Preview Thumbnails of PDF documents again in my icons. Originally, I have found a way to disable it. It was something in the settings and it worked.  That was few months ago.
+Now, after the update, I cannot find a method, assistant in the Reader offered me something, that seemed as something, that might work and it may have been the steps I followed before. But this time, it did not work.
+- I have entered the settings (Preferences) and in the ""File Associations"" under ""Advanced..."" button I made sure ""Include thumbnail when setting default PDF viewer"" was not checked and then once again, I used ""Make default PDF viewer"" button.
+- I have no other PDF viewer installed.
+- It did nothing.
+- All my file associations seems to be fine.
+- I have cleaned Windows thumbnail cache.
+- When I turn thumbnails completely off in Windows, it works, but it also turns them off for the other formats, where I want to keep it on.
+- I have restarted my computer.
+
+It still does not work and I am out of ideas. AI Assistant suggested to create a ticket here, so I am doing so.
+How to fix this situation?
+
+Best regards,
+Radek Stastny
+",
+
+Conversation 4:1010680903825641472,FoxitPDFEditor,"feedback:
+Dislike; 
+The AI didn't actually solve my issue. I had to call and speak to a support person.",/
+,Question 1,"question: Edit Fillable PDF
+ question details: I imported a Word document to convert to a fillable PDF. It recognized the fields correctly. However, I want to edit the field names, font, etc. When I click on the filed, it just goes into fill-in mode. I do not see an edit button. When I right-click the field, my only option is Paste. I cannot seem to find how to edit them since all of the documentation makes it seem like right-clicking is the method to do so. Thanks.",
+
+Conversation 5:1006756602596409344,FoxitPDFEditor,"feedback:
+Dislike; 
+",/
+,Question 1,"question: Invoice 1550AE98-0002
+ question details: Cannot active subscription -- evaluation mode only",
+
